@@ -1,2 +1,2 @@
 # Juntar-PDF
-Juntando PDF com VB.NET
+Juntando PDF com Visual Basic.NET
