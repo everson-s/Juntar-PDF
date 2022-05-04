@@ -39,7 +39,7 @@ Partial Class Form1
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ArquivoToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(278, 24)
+        Me.MenuStrip1.Size = New System.Drawing.Size(543, 24)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -53,18 +53,18 @@ Partial Class Form1
         'AbrirToolStripMenuItem
         '
         Me.AbrirToolStripMenuItem.Name = "AbrirToolStripMenuItem"
-        Me.AbrirToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.AbrirToolStripMenuItem.Size = New System.Drawing.Size(130, 22)
         Me.AbrirToolStripMenuItem.Text = "Juntar PDF"
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(278, 96)
+        Me.ClientSize = New System.Drawing.Size(543, 295)
         Me.Controls.Add(Me.MenuStrip1)
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Juntar PDF"
+        Me.Text = "Get PDF"
         Me.WindowState = System.Windows.Forms.FormWindowState.Minimized
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
